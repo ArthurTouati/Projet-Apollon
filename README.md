@@ -75,5 +75,3 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 **Note :** *Ce projet est destiné à un usage éducatif et expérimental. Assurez-vous de respecter la réglementation locale concernant le lancement de fusées amateurs.*
 
 ---
-
-Souhaitez-vous que je développe une section plus spécifique, comme les détails du protocole de communication P2P ou la liste des capteurs prévus ?
