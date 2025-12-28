@@ -80,7 +80,8 @@ Un immense merci à tous ceux qui contribuent, que ce soit par le code, les test
 
 ## 📜 Licence
 
-Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
+Ce projet est sous licence **CERN-OHL-P v2**. 
+Cela signifie que vous pouvez copier, modifier et distribuer les fichiers de ce projet, y compris pour un usage commercial, à condition de conserver les mentions de copyright originales. Pour plus de détails, voir le fichier [LICENSE](LICENSE).
 
 ---
 
