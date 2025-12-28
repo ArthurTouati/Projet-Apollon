@@ -66,6 +66,18 @@ Les contributions sont les bienvenues ! Que ce soit pour améliorer les algorith
 
 ---
 
+## ❤️ Soutenir le projet
+
+Le développement du **Projet Apollon** demande du temps et des ressources matérielles (prototypes de PCB, composants haute performance, tests de structure). Si vous trouvez ce projet utile ou si vous souhaitez nous aider à démocratiser l'informatique de vol amateur, vous pouvez nous soutenir :
+
+* **Sponsor GitHub :** Cliquez sur le bouton "Sponsor" en haut de la page pour faire un don.
+* **Contribution :** Améliorez le code ou la documentation.
+* **Partage :** Parlez du projet autour de vous !
+
+Un immense merci à tous ceux qui contribuent, que ce soit par le code, les tests ou le financement. 🚀
+
+---
+
 ## 📜 Licence
 
 Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
